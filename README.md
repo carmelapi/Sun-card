@@ -1,24 +1,28 @@
-This is a group project created by:
+# Guess the Sunny Card ☀️
 
-Carmela Pippa: https://github.com/CarmelaPippa,
-Marcus Ryden: https://github.com/marcusryden92,
-Maryana Reznychenko: https://github.com/maryana-reznychenko, -
+A browser-based card guessing game with geolocation 
+and multiple difficulty levels.
 
-frontend developers students at Hyper Island school, Stockholm.
+🔗 **Live demo:** https://guessthesunnycard.netlify.app
 
-The task is to create an interactive webpage to demonstrate skills in Javascript, the possibility to work together both onsite and remotely, and collaborate on GitHub.
+## How to play
 
-The project covers skills such as:
-- using fundamental Javascript such as variables, loops, functions, objects, and arrays;
-- using DOM manipulations to query, modify, and create elements;
-- using EventListener to add interactivity;
-- using The Web Storage to persist data;
-- using the fetch API to get data from a 3rd party.
+Find the hidden ☀️ sunny card among the face-down cards.
+Choose your difficulty: Easy / Medium / Hard.
+The game also shows the current sun position relative 
+to your location!
 
-  The project created for desctop view/using only.
-  You can test it here: https://guessthesunnycard.netlify.app/
+## Features
+- 🌍 Geolocation — shows real sun position
+- 🎯 3 difficulty levels
+- 🃏 Card flip animations
+- 📊 Score tracking
 
+## Built With
+- JavaScript (vanilla)
+- HTML
+- CSS
 
-
-Best regards,
-Carmela, Marcus and Maryana
+## Team
+Built with Maryana and Marcus 
+during HyperIsland Frontend Developer program.
